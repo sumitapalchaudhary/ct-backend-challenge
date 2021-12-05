@@ -1,4 +1,4 @@
-The Flight service application calls 2 unstable APIs, merges their response and removes duplicates; and display results in 1 second.
+This application calls 2 unstable APIs, merges their response and removes duplicates; and display results in 1 second.
 
 To run this application,
 
